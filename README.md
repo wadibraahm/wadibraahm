@@ -8,10 +8,74 @@
 
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=wadibraahm=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/wadibrahiim?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
+# Hi there 👋, I'm Mohammed Ibrahim
+
+### 🚀 Web Developer | Flutter Developer | AWS Cloud Enthusiast
+
+I'm passionate about building modern web applications, cross-platform mobile apps, and scalable cloud solutions.
+
+### 💻 What I Do
+
+* 🌐 Develop responsive and modern web applications
+* 📱 Build cross-platform mobile applications using Flutter
+* ☁️ Deploy and manage cloud infrastructure on AWS
+* 🔧 Design REST APIs and backend services
+* 🚀 Continuously learning new technologies and best practices
+
+### 🛠️ Tech Stack
+
+#### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Bootstrap
+
+#### Mobile Development
+
+* Flutter
+* Dart
+
+#### Backend
+
+* Node.js
+* PHP
+* Python
+
+#### Cloud & DevOps
+
+* AWS
+* Docker
+* Git & GitHub
+
+#### Databases
+
+* MySQL
+* PostgreSQL
+* Firebase
+
+### 🌱 Currently Learning
+
+* Advanced AWS Services
+* Cloud Architecture
+* CI/CD Pipelines
+* System Design
+
+### 💬 Ask Me About
+
+* Web Development
+* Flutter Development
+* AWS Cloud Computing
+* APIs & Backend Development
+
+### ⚡ Fun Fact
+
+I enjoy turning ideas into real-world applications and exploring new technologies every day.
 
 <hr></hr>
 
